@@ -28,20 +28,6 @@ padding:10px;
 text-align:center;
 }
 
-nav{
-
-width:160px;
-float:left;
-padding:5px;
-}
-
-nav a{
-color:red;
-}
-
-nav a:hover{
-color:green;
-}
 
 section{
 width:760px;
